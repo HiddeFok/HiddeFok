@@ -6,7 +6,7 @@ in the field of interpretable machine learning/explainable artificial intelligen
 in Online Learning, Bandit algorithms and Causality.
 
 Lately, I am getting more interested in the practical sides of ML and AI. Building the tools that practictioners 
-can use the quickly and safely implement the latest models is what gets me excited! 
+can use to quickly and reliably implement the latest models is what gets me excited! 
 
 <!--
 **HiddeFok/HiddeFok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
