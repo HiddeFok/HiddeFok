@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a PhD Candidate at the University of Amsterdam, supervised by [dr. Tim van Erven](https://www.timvanerven.nl/).
+My main topic of research is Mathematical Machine Learing, with a focus on developping formal methods and guarentees
+in the field of interpretable machine learning/explainable artificial intelligence. Furthermore, I also am interested
+in Online Learning, Bandit algorithms and Causality.
+
+Lately, I am getting more interested in the practical sides of ML and AI. Building the tools that practictioners 
+can use the quickly and safely implement the latest models is what gets me excited! 
+
 <!--
 **HiddeFok/HiddeFok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
