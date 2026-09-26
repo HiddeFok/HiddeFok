@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-I am a Researcher in Machine Learning and AI and recently obtained my PhD, supervised by [dr. Tim van Erven](https://www.timvanerven.nl/).
-My main topic of research is Mathematical Machine Learing, with a focus on developping formal methods and guarentees
+I am a Researcher in Machine Learning and AI and I currently work for [Plumerai](https://www.plumerai.com). At Plumerai we develop efficient AI solutions that runs on edge devices. 
+
+Before my current job, I obtained a PhD, supervised by [dr. Tim van Erven](https://www.timvanerven.nl/).
+My main topic of research was Mathematical Machine Learning, with a focus on developing formal methods and guarantees
 in the field of interpretable machine learning/explainable artificial intelligence. Furthermore, I also am interested
 in Optimisation, Online Learning, Bandit algorithms and Causality.
-
-Now that I am finished with my PhD and after having done theoretical research, I am excited about actually
-implementing ML algorithms. Currently, I am working on writing multiple repositories that contain 
-some of the algorithms I find interesting from ML theory papers. The goal is to write
-user-friendly interfaces, with clear documentation and insightfull examples. 
 
 <!--
 **HiddeFok/HiddeFok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
